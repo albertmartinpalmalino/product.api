@@ -1,0 +1,19 @@
+{
+"product" : [{ "id": 1, "Judul": "Muffin Mix - Morning Glory", "Harga": "$7.65" }, 
+{ "id": 2, "Judul": "Coffee - Espresso", "Harga": "$3.21" }, 
+{ "id": 3, "Judul": "Broom - Corn", "Harga": "$6.43" }, 
+{ "id": 4, "Judul": "Cake Slab", "Harga": "$6.64" }, 
+{ "id": 5, "Judul": "Marsala - Sperone, Fine, D.o.c.", "Harga": "$0.16" }, 
+{ "id": 6, "Judul": "Pernod", "Harga": "$4.68" }, 
+{ "id": 7, "Judul": "Cheese - Parmesan Cubes", "Harga": "$8.29" },
+{ "id": 8, "Judul": "Cabbage Roll", "Harga": "$8.89" }, 
+{ "id": 9, "Judul": "Coffee - Dark Roast", "Harga": "$9.00" },
+{ "id": 10, "Judul": "Muffin Mix - Morning Glory", "Harga": "$2.90" },
+{ "id": 11, "Judul": "Wine - Delicato Merlot", "Harga": "$8.32" },
+{ "id": 12, "Judul": "Wine - Fino Tio Pepe Gonzalez", "Harga": "$5.75" },
+{ "id": 13, "Judul": "Cookies - Englishbay Wht", "Harga": "$2.09" }, 
+{ "id": 14, "Judul": "Pasta - Rotini, Dry", "Harga": "$3.40" }, 
+{ "id": 15, "Judul": "Pasta - Lasagna Noodle, Frozen", "Harga": "$2.48" }, 
+{ "id": 16, "Judul": "Pepper - Green", "Harga": "$9.44" },
+{ "id": 17, "Judul": "Rice Pilaf, Dry,package", "Harga": "$6.14" }, { "id": 18, "Judul": "Thyme - Dried", "Harga": "$7.15" }, { "id": 19, "Judul": "Oil - Peanut", "Harga": "$1.79" }, { "id": 20, "Judul": "Veal - Sweetbread", "Harga": "$4.07" }, { "id": 21, "Judul": "Mikes Hard Lemonade", "Harga": "$9.43" }, { "id": 22, "Judul": "Wine - Masi Valpolocell", "Harga": "$2.14" }, { "id": 23, "Judul": "Fish - Halibut, Cold Smoked", "Harga": "$2.01" }, { "id": 24, "Judul": "Cake Circle, Foil, Scallop", "Harga": "$1.02" }, { "id": 25, "Judul": "Juice - Orangina", "Harga": "$2.98" }, { "id": 26, "Judul": "Ecolab - Medallion", "Harga": "$0.30" }, { "id": 27, "Judul": "Cheese - Cottage Cheese", "Harga": "$6.34" }, { "id": 28, "Judul": "Sauce - Apple, Unsweetened", "Harga": "$0.60" }, { "id": 29, "Judul": "Pork - European Side Bacon", "Harga": "$6.00" }, { "id": 30, "Judul": "Jack Daniels", "Harga": "$8.33" }]
+}
