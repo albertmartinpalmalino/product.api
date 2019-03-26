@@ -1,5 +1,5 @@
 {
-"product" : [{ "id": 1, "Judul": "Muffin Mix - Morning Glory", "Harga": "$7.65" }, 
+"products" : [{ "id": 1, "Judul": "Muffin Mix - Morning Glory", "Harga": "$7.65" }, 
 { "id": 2, "Judul": "Coffee - Espresso", "Harga": "$3.21" }, 
 { "id": 3, "Judul": "Broom - Corn", "Harga": "$6.43" }, 
 { "id": 4, "Judul": "Cake Slab", "Harga": "$6.64" }, 
